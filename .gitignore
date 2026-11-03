@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos del editor
+.vscode/
+
+# Sistema
+.DS_Store
